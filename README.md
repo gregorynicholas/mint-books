@@ -12,6 +12,7 @@ financials for, let's say, an accountant.
 
     $ mkvirtualenv mint-books
     $ pip install -r mintbooks/requirements.txt
+    $ cp mintbooks/config_sample.py mintbooks/config.py
 
 
 ### RUNNING:
